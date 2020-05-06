@@ -60,7 +60,6 @@
             this.ButtonVerbinden.TabIndex = 2;
             this.ButtonVerbinden.Text = "verbinden";
             this.ButtonVerbinden.UseVisualStyleBackColor = true;
-            this.ButtonVerbinden.Click += new System.EventHandler(this.ButtonVerbinden_Click);
             // 
             // ButtonTrennen
             // 
@@ -70,7 +69,6 @@
             this.ButtonTrennen.TabIndex = 2;
             this.ButtonTrennen.Text = "trennen";
             this.ButtonTrennen.UseVisualStyleBackColor = true;
-            this.ButtonTrennen.Click += new System.EventHandler(this.ButtonTrennen_Click);
             // 
             // ButtonBlinken
             // 
@@ -78,9 +76,8 @@
             this.ButtonBlinken.Name = "ButtonBlinken";
             this.ButtonBlinken.Size = new System.Drawing.Size(75, 23);
             this.ButtonBlinken.TabIndex = 2;
-            this.ButtonBlinken.Text = "blink";
+            this.ButtonBlinken.Text = "blinken";
             this.ButtonBlinken.UseVisualStyleBackColor = true;
-            this.ButtonBlinken.Click += new System.EventHandler(this.ButtonBlinken_Click);
             // 
             // Form1
             // 
